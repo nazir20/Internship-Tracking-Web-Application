@@ -84,6 +84,27 @@ Information such as class must be recorded in the system. <br>
 - <b>Admin Dashboard</b>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/admin_dashboard2.png)
 
+
+## Run Locally
+
+
+```bash
+  download the repository, put the repository main folder inside the htdocs folder
+```
+
+
+```bash
+  unzip the admin.zip, comission.zip, teacher.zip & student.rar
+```
+
+```bash
+  export the yazgeldb.sql file to XAMPP and run it(the db file is also attached to this repo).
+```
+
+Run the Project
+```bash
+  open your favorite browser and search for localhost/the_name_you_gave_for_project_inside_the_htdocs_folder
+```
 ## 🐼Feedback
 
 If you have any feedback, please reach out to us at nazirsharifi19@gmail.com
