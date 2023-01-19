@@ -46,7 +46,21 @@ Information such as class must be recorded in the system. <br>
 ## 🦉Screenshots
 
 - <b>Main Page</b>
-![App Main Page](https://github.com/nazir20/Shortly/blob/main/screenshots/mainpage)
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/mainpage.png)
+- <b>Student Dashboard</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_dashboard.png)
+- <b>Student -applying for internship_1, filling the form and creating the pdf of the filled form</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/apply_internship1.png)
+- <b>Student -applying for internship_2</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/apply_intern.png)
+- <b>Student -internship tracking </b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/staj_takibi.png)
+- <b>Student -internship tracking </b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/staj_takibi2.png)
+- <b>Student; can see the announcements added by commission </b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_announcements.png)
+- <b>Student; can see the announcements added by commission </b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_announcements2.png)
 
 ## 🐼Feedback
 
