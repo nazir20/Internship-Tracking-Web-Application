@@ -49,8 +49,10 @@ Information such as class must be recorded in the system. <br>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/mainpage.png)
 - <b>Student Dashboard</b>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_dashboard.png)
-- <b>Student -applying for internship_1, filling the form and creating the pdf of the filled form</b>
+- <b>Student -applying for internship_1 and filling the form</b>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/apply_internship1.png)
+- <b>Student -applied for internship_1, filled the form and printing out the pdf of the form</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/creating_pdf_internship_1.png)
 - <b>Student -applying for internship_2</b>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/apply_intern.png)
 - <b>Student -internship tracking </b>
@@ -61,6 +63,26 @@ Information such as class must be recorded in the system. <br>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_announcements.png)
 - <b>Student; can see the announcements added by commission </b>
 ![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/student_announcements2.png)
+<hr>
+
+
+- <b>Commission Dashboard</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/commission_dashboard.png)
+- <b>Commission -controlling informations and docs of students applied for internship</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/internship1_student_info.png)
+<hr>
+
+
+- <b>Teacher Dashboard</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/teacher_dashboard.png)
+- <b>Teacher -controlling informations and docs of students applied for internship and evaluating it</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/internship_evaluation.png)
+<hr>
+
+- <b>Admin Dashboard</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/admin_dashboard.png)
+- <b>Admin Dashboard</b>
+![App Main Page](https://github.com/nazir20/Internship-Tracking-Web-Application/blob/main/screenshotss/admin_dashboard2.png)
 
 ## 🐼Feedback
 
